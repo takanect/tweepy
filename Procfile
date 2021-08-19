@@ -1,1 +1,1 @@
-twipy: python twipy.py
+web: python index.py
