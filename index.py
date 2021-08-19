@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-install bottle
 import os
 from bottle import route, run
 
