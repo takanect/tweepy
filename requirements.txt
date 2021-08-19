@@ -1,3 +1,1 @@
---index-url https://pypi.python.org/simple/
-
--e .
+bottle==0.12.18
