@@ -1,14 +1,14 @@
 # coding:utf-8
 import tweepy 
 
-consumer_key='ZwOe2TGVBwouECYuDrFBjF30F'
-consumer_secret='86cimLekKwOL1IfGa82dzWvT2dhTgd40zHJHBNqnlCc4uBgMhZ'
+consumer_key = consumer_key
+consumer_secret = consumer_secret
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 
 #自分のキー
 
-access_token_key='972049286912401408-wGGVJYSecBIyHGvCquxzOoymLYD9nJT'
-access_token_secret='y4qxNMRhSqCBVgSEb4xBoGNql4NVKEge1BrWMNZP9ISl4'
+access_token_key=''
+access_token_secret=''
 auth.set_access_token(access_token_key, access_token_secret)
 
 
